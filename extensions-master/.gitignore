@@ -1,0 +1,10 @@
+# misc files
+node_modules
+build
+package-lock.json
+.DS_Store
+.vscode
+
+# template-generated files
+/index.html
+/index.json
